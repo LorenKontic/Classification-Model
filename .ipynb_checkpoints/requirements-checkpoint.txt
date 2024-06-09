@@ -1,0 +1,9 @@
+voila
+jupyter
+numpy
+pandas
+seaborn
+xgboost
+matplotlib
+scikit-learn
+yfinance
